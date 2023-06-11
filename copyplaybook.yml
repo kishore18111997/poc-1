@@ -6,6 +6,6 @@
   tasks:
   - name: copy files from ansible to other
     ansible.builtin.copy:
-      src: /home/jenkins/workspace/poc-1-rds-demo
+      src: /jenkins/workspace/poc-1-rds-demo/*
       dest: /home/ubuntu
       remote_src: yes
