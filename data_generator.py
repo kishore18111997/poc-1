@@ -10,3 +10,5 @@ if __name__ == "__main__":
     with open("data.txt", "w") as file:
         file.write(','.join(map(str, data)))
     print("Data generated and stored in data.txt.")
+
+	#changes1 made
