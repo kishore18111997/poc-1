@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print("Data generated and stored in data.txt.")
 
 	#changes1 made
+	#changes 2 made
