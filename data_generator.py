@@ -2,7 +2,7 @@
 import random
 
 def generate_data():
-    data = [random.randint(1, 100) for _ in range(10)]
+    data = [random.randint(30, 100) for _ in range(10)]
     return data
 
 if __name__ == "__main__":
